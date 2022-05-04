@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgorm=self.webpackChunkgorm||[]).push([[1861],{7789:function(o){o.exports=JSON.parse('{"permalink":"/gorm/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

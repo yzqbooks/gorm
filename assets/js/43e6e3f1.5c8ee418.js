@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgorm=self.webpackChunkgorm||[]).push([[5151],{1133:function(o){o.exports=JSON.parse('{"permalink":"/gorm/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

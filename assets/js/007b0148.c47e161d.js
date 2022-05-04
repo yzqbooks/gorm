@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgorm=self.webpackChunkgorm||[]).push([[393],{6199:function(e){e.exports=JSON.parse('{"allTagsPath":"/gorm/blog/tags","name":"hello","count":2,"permalink":"/gorm/blog/tags/hello"}')}}]);
